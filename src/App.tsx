@@ -3,7 +3,7 @@ import "./index.scss";
 function App() {
 	return (
 		<>
-			<h1 className="text-4xl">Travel Agency</h1>
+			<h1 className="text-2xl mb-3">Travel Agency</h1>
 			<p>testing</p>
 		</>
 	);
